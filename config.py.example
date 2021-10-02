@@ -1,0 +1,9 @@
+host = '192.168.8.1'
+username = 'admin'
+password = 'password'
+telegram_token=''
+telegram_chat_id=
+low_balance_threshold=100
+day_of_week_to_always_send=0 # Monday
+sms_message = 'query'
+sms_recipient = '8122'
